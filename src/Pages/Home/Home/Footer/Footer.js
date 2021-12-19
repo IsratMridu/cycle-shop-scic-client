@@ -49,7 +49,7 @@ const Footer = () => {
                 <Box>
                     <Grid container spacing={2} sx={{mt:3}}>
                         <Grid item xs={12} md={12}>
-                            <Typography variant="caption" display="block" gutterBottom> <a href="#!" style={{textDecoration: 'none', color: '#C3073F'}}>mueem51@gmail.com</a> </Typography>
+                            <Typography variant="caption" display="block" gutterBottom> <a href="#!" style={{textDecoration: 'none', color: '#C3073F'}}>Jubair@gmail.com</a> </Typography>
                         </Grid>
                     </Grid>
                 </Box>
